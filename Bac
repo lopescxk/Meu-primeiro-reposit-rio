@@ -1,0 +1,39 @@
+Ana Carolina, Ana Beatriz e Willian.
+
+ATIVIDADE
+
+
+Questão 1. Qual das seguintes opções explica por que o Git é uma ferramenta útil para projetos de programação?
+
+X (A) Ele ajuda a salvar diferentes versões do seu projeto e permite voltar atrás se você cometer erros.
+(B) Ele corrige automaticamente todos os erros de digitação no seu código.
+(C) Ele permite que você compartilhe fotos com seus amigos.
+(D) Ele automaticamente escreve o código do seu projeto para você.
+
+Questão 2. Você está começando um novo projeto de programação e quer usar o Git para controlar as versões do
+seu código. Qual é o primeiro passo que você deve seguir para criar um novo repositório Git no seu computador?
+
+(A) Usar o comando `git init` na pasta do projeto.
+X  (B) Criar uma conta no GitHub e criar um repositório online.
+(C) Adicionar todos os arquivos do projeto com o comando `git add .`.
+(D) Fazer um commit inicial com o comando `git commit -m "Primeiro commit"`
+
+Questão 3. Se você estivesse começando um projeto novo de história em grupo com seus colegas, como você
+usaria o Git e o GitHub para criar um repositório para organizar e compartilhar o trabalho de vocês?
+
+R: Criaria um repositório online para organizar as ideias e atividades, compartilhando sempre com os outros integrantes.
+
+Questão 4. Depois de adicionar seus arquivos ao Git usando `git add`, qual comando você usa para salvar suas
+mudanças com uma mensagem descritiva antes de enviá-las para o GitHub?
+
+X  (A) git commit -m "mensagem"
+(B) git init
+(C) git status
+(D) git push
+
+Questão 5. Imagine que você e seus amigos estão criando um jogo juntos. Cada um faz mudanças no código, e
+vocês precisam garantir que todas as alterações se juntem corretamente sem bagunçar o projeto. Explique como o
+Git pode ajudar vocês a resolver esse problema e por que ele é uma ferramenta útil para esse tipo de trabalho em
+equipe.
+
+R: O Git nos permite ver o histórico de ações, assim, se algo desse errado, poderíamos ver o erro analisando no histórico.
